@@ -1,7 +1,10 @@
 # image-cropper-javascript-canvas
-A simple image cropper in react and canvas with preview
+A simple image cropper in react and canvas with drag & preview functionality
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
+|  |  |
+| --- | --- |
+|![Image Cropper 1](./screenshots/image-cropper-1.png) | ![Image Cropper 2](./screenshots/image-cropper-2.png)|
 
 ## Available Scripts
 
